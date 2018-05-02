@@ -1,12 +1,13 @@
-# Twitch Streaming tools for BS07 Community members
+# Twitch Streaming tools for BSo7 Community members
 
-This is a resource for BS07 users to help enhance their streams with various overlay tools
+This is a resource for BSo7 users to help enhance their streams with various overlay tools
 and other web based tools to help grow their audience and presence on Twitch.
 
 ## Getting Started
 
 Join us on Discord, https://discord.gg/Je44vx3. You can also create a feature request and
-we may just build it.  
+we may just build it.  The Bso7 community page can be found, https://www.twitch.tv/communities/bso7_broadcasters_salute to learn more about the community
+and how you can join.
 
 ### Prerequisites
 
