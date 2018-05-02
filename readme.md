@@ -13,7 +13,7 @@ we may just build it.
 You should be able to run Node.js applications on your system.
 
 ```
-Give examples
+Coming soon
 ```
 
 ### Installing
