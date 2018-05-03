@@ -19,7 +19,7 @@ Coming soon
 
 ### Installing
 
-Coming Soon.....
+* Follow https://github.com/nodecg/nodecg and install nodecg into the subirectory nodecg.
 
 ## Running the tests
 
